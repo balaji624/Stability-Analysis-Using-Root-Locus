@@ -1,4 +1,4 @@
-![IMG_20251117_141859](https://github.com/user-attachments/assets/5d5a56f0-a0a8-4334-b9e3-2c4ba3fab680)![IMG_20251117_142608](https://github.com/user-attachments/assets/b34f1133-67ba-4870-ad92-31fb92f4c20e)# Stability Analysis using Root Locus
+# Stability Analysis using Root Locus
 ## Aim:
 To analyse the stability of the system having open loop transfer function, G(S)=K/(S(S+5)(S+10)) using root locus and verify it using MATLAB. 
 ## Apparatus Required:
@@ -7,12 +7,8 @@ Computer with MATLAB software
 ## Theory:
 ![IMG_20251117_141859](https://github.com/user-attachments/assets/a11fc97c-b0dc-458d-a9e9-c72312bdd06f)
 ![IMG_20251117_141949](https://github.com/user-attachments/assets/ef4d2d3d-7990-45f0-93e3-1f27d161271c)
-
-
-
-
-
-
+![IMG_20251117_142017](https://github.com/user-attachments/assets/4ad48aee-ef40-4a14-82bc-7b05d5cc14ee)
+![IMG_20251117_142608](https://github.com/user-attachments/assets/6b09364e-90a5-49ca-b3b4-398e5ba96c2d)
 
 ## Procedure:
 	Open MATLAB software
